@@ -1,0 +1,16 @@
+{
+  "name": "ts-how-many-fridays-and-saturdays",
+  "version": "1.0.0",
+  "description": "A small tool to show how many Fridays and Saturdays there are between two dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paul Terry",
+  "license": "MIT",
+  "devDependencies": {
+    "date-fns": "^1.29.0",
+    "typescript": "^3.2.1"
+  }
+}
